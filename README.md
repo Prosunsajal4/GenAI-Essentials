@@ -1,1 +1,1 @@
-# GenAI-Essentials
+Prosun's AI essentials
